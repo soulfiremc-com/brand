@@ -1,6 +1,6 @@
 # Assets
 
-These files are unchanged copies of artwork from the SoulFire server repository.
+The files in [icons](icons) are unchanged copies of artwork from the SoulFire server repository.
 The manifest records each original source URL, Git blob ID, and SHA-256 checksum.
 
 | File | Format and size | Placement |
@@ -14,6 +14,8 @@ The manifest records each original source URL, Git blob ID, and SHA-256 checksum
 The source filename `trimmed-icon.svg` remains unchanged for provenance.
 Its artwork includes padding. The name does not describe a separate logo design.
 The raster and vector files remain existing exports. They are not certified as pixel-identical renders.
+
+Interface examples for a proposal live in [screenshots](screenshots/README.md). They are not logo assets.
 
 ## Source and license
 

@@ -17,6 +17,7 @@ People use the app, CLI, SDKs, and visual scripts to observe and control bots.
 | [Writing](writing.md) | Write clear product text and documentation. |
 | [Visual identity](visual-identity.md) | Use the existing logo and its colors. |
 | [Assets](assets/README.md) | Find the original logo files and their sources. |
+| [Interface system proposal](proposals/003-interface-system.md) | Review proposed color roles, interface states, and guided setup patterns. This is not accepted guidance. |
 
 ## Current guidance and proposals
 

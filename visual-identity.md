@@ -44,6 +44,7 @@ Write SoulFire in that system instead of inventing a wordmark.
 Use interface icons for controls and the flame for product identity.
 
 A future typography or theme specification needs examples from the actual product surfaces and a separate proposal.
+[Proposal 003](proposals/003-interface-system.md) is one such proposal. It has no accepted status.
 
 ## Screenshots
 

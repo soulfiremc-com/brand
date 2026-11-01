@@ -1,4 +1,4 @@
-# Naming proposals
+# Proposals
 
 These documents contain recommendations that need a maintainer decision.
 Publication does not approve a rename or change released behavior.
@@ -7,6 +7,7 @@ Publication does not approve a rename or change released behavior.
 | --- | --- | --- |
 | [001: Product terminology](001-product-terminology.md) | Proposed | Instance, deployment choices, views, and configuration exports. |
 | [002: Feature names](002-feature-names.md) | Proposed | Built-in plugins, visual nodes, SDK ownership, and lifecycle terms. |
+| [003: Interface system](003-interface-system.md) | Proposed | Color roles, typography and density, icons, actions, interface states, and guided setup. |
 
 ## Make a proposal
 

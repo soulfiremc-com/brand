@@ -32,5 +32,56 @@
       "gitBlob": "7cd393bc1d393f1fedb41fce696805862a199b45",
       "sha256": "c1be60b1c3e28375f15c459e33b0b0b1665f090e5f4038470ad8efcec400abae"
     }
+  ],
+  "screenshots": [
+    {
+      "path": "screenshots/client-botview-failed.png",
+      "origin": "Real SoulFireClient UI capture with sample data. See screenshots/README.md.",
+      "clientRevision": "47356061c89ddd07ae48bc9e98f225a59a4063fb",
+      "clientState": "Uncommitted changes on this revision",
+      "sha256": "c05bfae9bcbdb6d9c827797d7eff85d0c92dccb5a175caf8f9db0f3a42fd7413"
+    },
+    {
+      "path": "screenshots/client-firstbot-review.png",
+      "origin": "Real SoulFireClient UI capture with sample data. See screenshots/README.md.",
+      "clientRevision": "47356061c89ddd07ae48bc9e98f225a59a4063fb",
+      "clientState": "Uncommitted changes on this revision",
+      "sha256": "e039cbf2e8fbb35a8311840c38783b6f03bb96b391d6e092c1e767992c307db2"
+    },
+    {
+      "path": "screenshots/client-launcher-desktop.png",
+      "origin": "Real SoulFireClient UI capture with sample data. See screenshots/README.md.",
+      "clientRevision": "47356061c89ddd07ae48bc9e98f225a59a4063fb",
+      "clientState": "Uncommitted changes on this revision",
+      "sha256": "3a9e7296059705883806f0051883ca9478aa8329571436d462f2bf33af7d9118"
+    },
+    {
+      "path": "screenshots/client-launcher-failed.png",
+      "origin": "Real SoulFireClient UI capture with sample data. See screenshots/README.md.",
+      "clientRevision": "47356061c89ddd07ae48bc9e98f225a59a4063fb",
+      "clientState": "Uncommitted changes on this revision",
+      "sha256": "b6105639326c51cbaa1a11ea46e8cb87b3b45ce27a12ac64314147a8096d8685"
+    },
+    {
+      "path": "screenshots/client-overview-fleet.png",
+      "origin": "Real SoulFireClient UI capture with sample data. See screenshots/README.md.",
+      "clientRevision": "47356061c89ddd07ae48bc9e98f225a59a4063fb",
+      "clientState": "Uncommitted changes on this revision",
+      "sha256": "42fa5ae79b9fe0954420bd867bf55444837d5951d455fe6921e7c3e3e738493f"
+    },
+    {
+      "path": "screenshots/client-script-blank.png",
+      "origin": "Real SoulFireClient UI capture with sample data. See screenshots/README.md.",
+      "clientRevision": "47356061c89ddd07ae48bc9e98f225a59a4063fb",
+      "clientState": "Uncommitted changes on this revision",
+      "sha256": "fc4d7733e9008b430f5d2094961480727949dec0d3bf103ff72f45fd723ac8dc"
+    },
+    {
+      "path": "screenshots/client-settings-discover.png",
+      "origin": "Real SoulFireClient UI capture with sample data. See screenshots/README.md.",
+      "clientRevision": "47356061c89ddd07ae48bc9e98f225a59a4063fb",
+      "clientState": "Uncommitted changes on this revision",
+      "sha256": "6f55fb8c19e838400259bbbebe43afe0c9c669b62a83ac8056d48c1c8f35b221"
+    }
   ]
 }
