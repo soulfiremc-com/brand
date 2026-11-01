@@ -1,0 +1,36 @@
+{
+  "repository": "https://github.com/soulfiremc-com/SoulFire",
+  "revision": "4a3048001638243b5528aaf64a0eda35f81f48b2",
+  "assets": [
+    {
+      "path": "icons/icon.png",
+      "source": "https://github.com/soulfiremc-com/SoulFire/blob/4a3048001638243b5528aaf64a0eda35f81f48b2/mod/src/main/resources/icons/icon.png",
+      "gitBlob": "fe6f4e87a58421104cc4eab5ebcb2e7c4313b4cd",
+      "sha256": "1a0dfc77f5a1a71b38781b0e2314475870513f5ec276a3a8c66e728c2b6461ed"
+    },
+    {
+      "path": "icons/icon-rounded.svg",
+      "source": "https://github.com/soulfiremc-com/SoulFire/blob/4a3048001638243b5528aaf64a0eda35f81f48b2/mod/src/main/resources/icons/icon-rounded.svg",
+      "gitBlob": "76cdc5e21c0dd9d5129aa2bcec7b7f8d3ee2b618",
+      "sha256": "192dfef1093203341cd91a53967184c93d131ff8821321bba4ebbdd4ebf6904d"
+    },
+    {
+      "path": "icons/icon-square.svg",
+      "source": "https://github.com/soulfiremc-com/SoulFire/blob/4a3048001638243b5528aaf64a0eda35f81f48b2/mod/src/main/resources/icons/icon-square.svg",
+      "gitBlob": "5d8589abddb573c22a4f623c1d1de21401ee80cd",
+      "sha256": "1603f5a9d783e34f1b5934a48421f8da1b0ee0217b2e466ef958eb69ffce4494"
+    },
+    {
+      "path": "icons/trimmed-icon.svg",
+      "source": "https://github.com/soulfiremc-com/SoulFire/blob/4a3048001638243b5528aaf64a0eda35f81f48b2/mod/src/main/resources/icons/trimmed-icon.svg",
+      "gitBlob": "5bbe2a928e9d29095b5871219d8a968f50c7a08f",
+      "sha256": "6f281f096e387349b6418a7f7b66b8bb88bab0aaa4e34bbe727f5e2a42f025cf"
+    },
+    {
+      "path": "icons/pov_favicon.png",
+      "source": "https://github.com/soulfiremc-com/SoulFire/blob/4a3048001638243b5528aaf64a0eda35f81f48b2/mod/src/main/resources/icons/pov_favicon.png",
+      "gitBlob": "7cd393bc1d393f1fedb41fce696805862a199b45",
+      "sha256": "c1be60b1c3e28375f15c459e33b0b0b1665f090e5f4038470ad8efcec400abae"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+# Repository instructions
+
+## Scope
+
+Maintain shared product language and existing visual identity for SoulFire.
+Read README.md and terminology.md before changing a guide.
+Read the relevant proposal before changing a disputed term.
+
+## Decisions and compatibility
+
+- Keep current vocabulary in the guides and unapproved renames in proposals/.
+- Instance remains the current name. Project is a proposal.
+- Do not infer acceptance from publication or a merged proposal document.
+- Record explicit maintainer decisions in decisions/.
+- Preserve exact API identifiers, package names, stored IDs, and serialized node types.
+- Keep implementation and migration work in the owning repositories.
+
+## Writing and assets
+
+- Write clear, natural English with active voice and sentence case.
+- Avoid em dashes, filler, exaggerated claims, and ambiguous lifetime promises.
+- Document ownership, identity, lifetime, and behavior for shared objects.
+- Keep source references stable and include the relevant version or revision.
+- Preserve imported asset bytes and maintain assets/sources.json.
+- Do not invent logos, typography standards, or new asset licenses as factual existing guidance.
+
+## Checks and Git
+
+- Check local links, image paths, Markdown structure, and asset checksums.
+- Use Conventional Commit messages, with a body for non-trivial changes.
+- Do not create new branches without an explicit user instruction.
+- Run configured commit hooks and wait for completion. Never bypass hooks.
