@@ -1,8 +1,8 @@
 # Decisions
 
-No naming proposal has an acceptance or rejection record yet.
-The initial guides document the current vocabulary and provide writing guidance.
-They do not approve the renames listed in [proposals](../proposals/README.md).
+[Decision 001: Accept the display-name migration](001-display-name-migration.md) accepts the selected names in Proposal 004.
+The current guides reflect that decision. Other items in [proposals](../proposals/README.md) remain unapproved.
+Acceptance, implementation, and release are separate states.
 
 ## Record a decision
 

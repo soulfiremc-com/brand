@@ -9,7 +9,8 @@ Read the relevant proposal before changing a disputed term.
 ## Decisions and compatibility
 
 - Keep current vocabulary in the guides and unapproved renames in proposals/.
-- Instance remains the current name. Project is a proposal.
+- Project is the accepted display name. Preserve `instance` in existing public and persisted identifiers.
+- Follow decision 001 for accepted display names; other proposal items remain unapproved.
 - Do not infer acceptance from publication or a merged proposal document.
 - Record explicit maintainer decisions in decisions/.
 - Preserve exact API identifiers, package names, stored IDs, and serialized node types.

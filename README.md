@@ -25,7 +25,8 @@ The guides establish the vocabulary baseline for new work. Existing interfaces c
 This repository does not change an API, file format, or released feature by itself.
 
 [Proposals](proposals/README.md) contain changes that need a maintainer decision.
-For example, **Project** is a proposed replacement for **Instance**. Instance remains the current term.
+[Decision 001](decisions/001-display-name-migration.md) accepts **Project** and the selected display-name migration.
+Implementation and release remain separate from acceptance. Other proposal items remain unapproved.
 
 [Decision records](decisions/README.md) document accepted or rejected proposals and their implementation plans.
 

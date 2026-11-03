@@ -1,10 +1,10 @@
 # Proposal 004: Display-name migration
 
-Status: **Proposed**
+Status: **Accepted** on 2026-11-03. See [Decision 001](../decisions/001-display-name-migration.md).
 
 This proposal selects a coordinated display-name migration from [Proposal 001](001-product-terminology.md)
-and [Proposal 002](002-feature-names.md). The implementation PRs depend on an explicit maintainer decision to accept these names.
-Opening or merging a proposal document alone does not approve them. Current guides keep their existing vocabulary until that decision.
+and [Proposal 002](002-feature-names.md). The maintainer authorized merging the reviewed display-name migration PRs.
+[Decision 001](../decisions/001-display-name-migration.md) records that approval. Acceptance does not mean every implementation or release is complete.
 
 ## Scope
 
@@ -19,7 +19,7 @@ It introduces no data conversion and does not require users to rewrite existing 
 
 ## Product vocabulary
 
-| Existing label | Proposed label | Meaning and compatibility |
+| Existing label | Accepted label | Meaning and compatibility |
 | --- | --- | --- |
 | Instance | Project | Same persistent container. API and SDK identifiers retain `instance`. |
 | Instance settings | Project settings | Same settings page and route. |
@@ -50,7 +50,7 @@ These descriptions follow the current duplication and serialization behavior. Re
 
 ## Feature vocabulary
 
-| Existing name | Proposed display name | Stable plugin or page ID |
+| Existing name | Accepted display name | Stable plugin or page ID |
 | --- | --- | --- |
 | Auto Eat | Auto eat | `auto-eat` |
 | Auto Respawn | Auto respawn | `auto-respawn` |
@@ -79,7 +79,7 @@ Descriptions must explain server-dependent behavior without promising a bypass.
 
 ## Visual-script vocabulary
 
-| Existing name | Proposed display name | Stable node type |
+| Existing name | Accepted display name | Stable node type |
 | --- | --- | --- |
 | Debounce | Cooldown | `flow.debounce` |
 | On Bot Init | On connection created | `trigger.on_bot_init` |
@@ -103,7 +103,7 @@ Keep every previous display name as a search keyword. Keep explicit labels in sa
 
 ## Rollout and acceptance
 
-1. Record an explicit maintainer decision for these display names and link it from this proposal.
+1. Record the accepted display-name decision, completed in [Decision 001](../decisions/001-display-name-migration.md).
 2. Merge the server PR for metadata, settings labels, CLI help, compatibility tests, and SDK documentation.
 3. Merge the app PR for source English, demo labels, configuration dialogs, and SDK agent prompts.
 4. Review updated strings through Crowdin. Other locales keep their current translations until review is complete.
@@ -116,7 +116,7 @@ The implementation PR descriptions list their related PRs, checks, and translati
 
 Acceptance requires unchanged identifiers and placeholders, import of existing configuration files, resolvable saved node types,
 legacy search terms, matching demo labels, and passing checks in the owning repositories.
-Update the current glossary and guides only after the decision is accepted. Record implementation and release separately from acceptance.
+The current glossary and guides use the accepted names. Record implementation and release separately from acceptance.
 
 ## Deferred work
 
