@@ -35,14 +35,16 @@ Location, lifecycle ownership, and process arrangement describe different proper
 
 A dedicated server can run locally. An SDK-managed server can use a separate process.
 Do not treat **dedicated** as a synonym for **remote**.
-Current connection-choice labels and proposed replacements appear in [Proposal 001](proposals/001-product-terminology.md).
+Use **Run on this computer**, **Connect to a SoulFire server**, and **Try the demo** for app connection choices.
+The [accepted display-name migration](proposals/004-naming-migration.md) records their scope.
 
 ## Features and plugins
 
 Name a feature for the behavior it provides.
 Avoid an outcome claim that depends on a particular server or configuration.
 For example, **Ping before join** describes an operation more precisely than **Server list bypass**.
-Existing feature labels remain subject to [Proposal 002](proposals/002-feature-names.md).
+Use the feature and node mappings accepted in [Decision 001](decisions/001-display-name-migration.md) and listed in [Proposal 004](proposals/004-naming-migration.md).
+Other items in Proposal 002, including SDK/domain renames and independent plugin-package display metadata, remain deferred.
 
 Keep a stable machine ID separate from the display name.
 Display-name changes do not authorize changes to plugin IDs, settings namespaces, permission IDs, or serialized node types.

@@ -2,6 +2,8 @@
 
 Status: **Proposed**
 
+[Proposal 004](004-naming-migration.md) selects the display-name changes and defines their compatibility and rollout. The selected display names are accepted in [Decision 001](../decisions/001-display-name-migration.md). Other items remain proposed or deferred.
+
 This proposal captures the initial naming review. It does not authorize changes to released names or identifiers.
 
 ## Instance to Project

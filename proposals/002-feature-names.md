@@ -2,7 +2,9 @@
 
 Status: **Proposed**
 
-These recommendations need a separate decision before implementation.
+[Proposal 004](004-naming-migration.md) selects the display-name changes and defines their compatibility and rollout. The selected display names are accepted in [Decision 001](../decisions/001-display-name-migration.md). Other items remain proposed or deferred.
+
+Recommendations outside the selection in Proposal 004 need a separate decision before implementation.
 They preserve plugin IDs and stored node types unless a migration explicitly changes them.
 
 ## Built-in features
