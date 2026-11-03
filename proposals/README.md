@@ -8,6 +8,7 @@ Publication does not approve a rename or change released behavior.
 | [001: Product terminology](001-product-terminology.md) | Proposed | Instance, deployment choices, views, and configuration exports. |
 | [002: Feature names](002-feature-names.md) | Proposed | Built-in plugins, visual nodes, SDK ownership, and lifecycle terms. |
 | [003: Interface system](003-interface-system.md) | Proposed | Color roles, typography and density, icons, actions, interface states, and guided setup. |
+| [004: Display-name migration](004-naming-migration.md) | Proposed | Coordinated product, feature, and node display names, compatibility, and rollout. |
 
 ## Make a proposal
 

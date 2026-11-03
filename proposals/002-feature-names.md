@@ -2,6 +2,8 @@
 
 Status: **Proposed**
 
+[Proposal 004](004-naming-migration.md) selects the display-name changes and defines their compatibility and rollout. Other architectural changes remain separate.
+
 These recommendations need a separate decision before implementation.
 They preserve plugin IDs and stored node types unless a migration explicitly changes them.
 
