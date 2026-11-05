@@ -15,12 +15,15 @@ Propose a glossary change when the definition does not fit.
 
 ## Product names and labels
 
+Use **Soulfire** for the product, **Soulfire app** for its graphical interface, and **Soulfire server** for its backend.
+Keep `SoulFire` in existing SDK exports and other public identifiers. Display spelling does not rename an API.
+
 - Use sentence case for headings, navigation, controls, and feature labels.
-- Preserve product names and acronyms, including SoulFire, Minecraft, SDK, API, POV, HTTP, and SOCKS5.
+- Preserve product names and acronyms, including Soulfire, Minecraft, SDK, API, POV, HTTP, and SOCKS5.
 - Use a noun for a destination, such as **Bots** or **Minecraft accounts**.
 - Use a verb for an action, such as **Start bots**, **Import accounts**, or **Save changes**.
 - Keep the same action name in its button, progress message, and result message.
-- Qualify ambiguous endpoints: **SoulFire server URL**, **Minecraft server address**, and **Proxy address**.
+- Qualify ambiguous endpoints: **Soulfire server URL**, **Minecraft server address**, and **Proxy address**.
 - Use **Name** instead of **Friendly name** unless a separate technical name exists.
 
 ## Deployment
@@ -35,7 +38,7 @@ Location, lifecycle ownership, and process arrangement describe different proper
 
 A dedicated server can run locally. An SDK-managed server can use a separate process.
 Do not treat **dedicated** as a synonym for **remote**.
-Use **Run on this computer**, **Connect to a SoulFire server**, and **Try the demo** for app connection choices.
+Use **Run on this computer**, **Connect to a Soulfire server**, and **Try the demo** for app connection choices.
 The [accepted display-name migration](proposals/004-naming-migration.md) records their scope.
 
 ## Features and plugins

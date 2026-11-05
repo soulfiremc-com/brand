@@ -26,7 +26,7 @@ Keep labels concise. Put necessary detail in a nearby description.
 | Progress | Starting bots... |
 | Success | Bots started. |
 | Empty state | No bots yet. Add a Minecraft account to create your first bot. |
-| Error | Could not connect to the SoulFire server. Check the URL and try again. |
+| Error | Could not connect to the Soulfire server. Check the URL and try again. |
 | Permission restriction | You do not have permission to start bots in this project. |
 
 Do not promise success before the system reaches the named state.

@@ -1,6 +1,6 @@
 # Assets
 
-The files in [icons](icons) are unchanged copies of artwork from the SoulFire server repository.
+The files in [icons](icons) are unchanged copies of artwork from the Soulfire server repository.
 The manifest records each original source URL, Git blob ID, and SHA-256 checksum.
 
 | File | Format and size | Placement |
@@ -19,7 +19,7 @@ Interface examples for a proposal live in [screenshots](screenshots/README.md). 
 
 ## Source and license
 
-Source: [SoulFire icons](https://github.com/soulfiremc-com/SoulFire/tree/4a3048001638243b5528aaf64a0eda35f81f48b2/mod/src/main/resources/icons).
+Source: [Soulfire icons](https://github.com/soulfiremc-com/SoulFire/tree/4a3048001638243b5528aaf64a0eda35f81f48b2/mod/src/main/resources/icons).
 
 The [license](../LICENSE) matches the source repository.
 This import does not add a new asset license or a trademark policy.

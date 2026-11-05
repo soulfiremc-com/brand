@@ -9,6 +9,7 @@ Publication does not approve a rename or change released behavior.
 | [002: Feature names](002-feature-names.md) | Proposed | Built-in plugins, visual nodes, SDK ownership, and lifecycle terms. |
 | [003: Interface system](003-interface-system.md) | Proposed | Color roles, typography and density, icons, actions, interface states, and guided setup. |
 | [004: Display-name migration](004-naming-migration.md) | Accepted in [Decision 001](../decisions/001-display-name-migration.md) | Coordinated product, feature, and node display names, compatibility, and rollout. |
+| [005: Soulfire display spelling](005-brand-spelling.md) | Accepted for implementation in [Decision 002](../decisions/002-brand-spelling.md) | Product spelling, compatible identifiers, graphics, and rollout across repositories. |
 
 ## Make a proposal
 
