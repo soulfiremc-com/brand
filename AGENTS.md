@@ -2,7 +2,7 @@
 
 ## Scope
 
-Maintain shared product language and existing visual identity for SoulFire.
+Maintain shared product language and existing visual identity for Soulfire.
 Read README.md and terminology.md before changing a guide.
 Read the relevant proposal before changing a disputed term.
 
@@ -11,6 +11,7 @@ Read the relevant proposal before changing a disputed term.
 - Keep current vocabulary in the guides and unapproved renames in proposals/.
 - Project is the accepted display name. Preserve `instance` in existing public and persisted identifiers.
 - Follow decision 001 for accepted display names; other proposal items remain unapproved.
+- Follow decision 002 for Soulfire display spelling and compatible public identifiers.
 - Do not infer acceptance from publication or a merged proposal document.
 - Record explicit maintainer decisions in decisions/.
 - Preserve exact API identifiers, package names, stored IDs, and serialized node types.
@@ -34,7 +35,7 @@ Read the relevant proposal before changing a disputed term.
 
 ## Branding and product language
 
-Before naming features or changing user-facing text and visuals, read the [SoulFire brand guidance](https://github.com/soulfiremc-com/brand).
+Before naming features or changing user-facing text and visuals, read the [Soulfire brand guidance](https://github.com/soulfiremc-com/brand).
 Use its terminology, naming, writing, and visual identity guides.
 Keep proposed renames separate from accepted guidance.
 Preserve public identifiers until the owning repository approves a migration.

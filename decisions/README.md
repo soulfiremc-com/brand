@@ -4,6 +4,8 @@
 The current guides reflect that decision. Other items in [proposals](../proposals/README.md) remain unapproved.
 Acceptance, implementation, and release are separate states.
 
+[Decision 002: Use Soulfire as the display name](002-brand-spelling.md) accepts the spelling and compatibility scope in [Proposal 005](../proposals/005-brand-spelling.md).
+
 ## Record a decision
 
 After a maintainer accepts or rejects a proposal, add a decision record with:

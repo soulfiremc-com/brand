@@ -1,11 +1,11 @@
 # Visual identity
 
-This guide documents SoulFire's existing cyan flame identity.
+This guide documents Soulfire's existing cyan flame identity.
 It does not introduce a new logo, app theme, or typography system.
 
 ## Logo
 
-![SoulFire rounded icon](assets/icons/icon-rounded.svg)
+![Soulfire rounded icon](assets/icons/icon-rounded.svg)
 
 Use the original files in [assets](assets/README.md).
 The flame and its inner cutout identify the product. The dark tile supports the cyan mark.
@@ -40,13 +40,17 @@ Check text contrast in the interface that uses it.
 
 This baseline specifies no shared font family, type scale, or interface icon library.
 Use the owning app or site's established typography and icon system.
-Write SoulFire in that system instead of inventing a wordmark.
+Write Soulfire in that system instead of inventing a wordmark.
+Use a lowercase f in new title cards, social images, thumbnails, and other name-bearing graphics.
+Regenerate these graphics from their source templates. Keep the existing flame and text-free app icons unchanged.
 Use interface icons for controls and the flame for product identity.
 
 A future typography or theme specification needs examples from the actual product surfaces and a separate proposal.
 [Proposal 003](proposals/003-interface-system.md) is one such proposal. It has no accepted status.
 
 ## Screenshots
+
+Older captures can show SoulFire. Keep their original pixels and identify their version rather than retouching product evidence.
 
 Use screenshots that explain a real task and reflect the documented product version.
 Hide credentials and private server details before publication.

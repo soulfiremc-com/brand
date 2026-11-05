@@ -1,6 +1,6 @@
 # Contributing
 
-This repository coordinates SoulFire's product language and existing visual identity across repositories.
+This repository coordinates Soulfire's product language and existing visual identity across repositories.
 Changes need a clear reader goal and enough evidence for maintainers to assess them.
 
 ## Choose the change type

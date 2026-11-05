@@ -7,18 +7,18 @@ It distinguishes persistent configuration, live connections, observed data, and 
 
 | Term | Meaning | Ownership and lifetime |
 | --- | --- | --- |
-| SoulFire server | Backend that manages bots and provides the API. | Has its own data and process lifecycle. |
-| Minecraft server | Game server that a bot joins. | Separate from the SoulFire server. |
-| User | Person or authenticated principal with access to SoulFire. | Has permissions on the server and its projects. |
+| Soulfire server | Backend that manages bots and provides the API. | Has its own data and process lifecycle. |
+| Minecraft server | Game server that a bot joins. | Separate from the Soulfire server. |
+| User | Person or authenticated principal with access to Soulfire. | Has permissions on the server and its projects. |
 | Project | Persistent container for configuration and independently controlled bots. | Scopes access, accounts, proxies, scripts, files, and metadata. Exists while bots are stopped. |
-| Bot | Configured automated player controlled through SoulFire. | Belongs to a project and remains the same bot across reconnects. |
+| Bot | Configured automated player controlled through Soulfire. | Belongs to a project and remains the same bot across reconnects. |
 | Minecraft account | Authentication material and Minecraft identity used by a bot. | Current account records also store per-bot configuration and persistent metadata. |
-| Minecraft profile | Game identity associated with a username and profile UUID. | Distinct from a SoulFire user or configuration export. |
+| Minecraft profile | Game identity associated with a username and profile UUID. | Distinct from a Soulfire user or configuration export. |
 | Bot connection | Runtime for one connection attempt and its live Minecraft client. | Recreated on reconnect. Its connection epoch identifies that runtime. |
 | Fleet | Bots addressed together for selection, distribution, or bulk control. | An orchestration view within a project, not a replacement for the project. |
 | Proxy | Network intermediary that routes a connection. | An entry available through project configuration. |
 | Proxy pool | Collection of proxies available for allocation. | Distinct from the proxy currently assigned to one bot. |
-| Plugin | Package that extends the SoulFire server. | Can contribute settings, commands, permissions, RPCs, events, and task providers. |
+| Plugin | Package that extends the Soulfire server. | Can contribute settings, commands, permissions, RPCs, events, and task providers. |
 
 **Project** is the accepted display name under [Decision 001](decisions/001-display-name-migration.md).
 Existing APIs and stored identifiers retain `Instance`, `instance_id`, and `instanceId`. Older releases can still show Instance.
@@ -65,7 +65,7 @@ Qualify **session** with its purpose, such as login session or POV control sessi
 The SDK's `BotSession` represents observation and reduced state. It is distinct from the bot connection.
 
 **Connection variables** use connection metadata and disappear on disconnect.
-**Project runtime variables** remain available while bots stop and start, and reset when the SoulFire server restarts.
+**Project runtime variables** remain available while bots stop and start, and reset when the Soulfire server restarts.
 **Persistent bot variables** and **persistent project variables** use saved account and project metadata.
 Serialized node types retain their existing `*_bot` and `*_instance` names.
 Script caches and state machines require their own scope descriptions.
